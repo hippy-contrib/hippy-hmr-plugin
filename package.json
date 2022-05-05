@@ -1,6 +1,6 @@
 {
   "name": "@hippy/hippy-hmr-plugin",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "hot module replacement plugin",
   "main": "lib/index.js",
   "scripts": {
